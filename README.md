@@ -1,2 +1,1 @@
-# hello-world
-test1
+script to do linear models from drug response experiments
